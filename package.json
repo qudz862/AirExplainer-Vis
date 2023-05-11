@@ -1,0 +1,28 @@
+{
+  "name": "air-explainer-vis",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.3.0",
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "d3": "^7.4.0",
+    "jquery": "^3.6.0",
+    "mapbox-gl": "^2.14.1",
+    "mapbox-gl-controls": "^2.3.5",
+    "popper.js": "^1.16.1",
+    "turf": "^3.0.14",
+    "view-ui-plus": "^1.3.12",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.2",
+    "vite": "^2.8.4"
+  }
+}
